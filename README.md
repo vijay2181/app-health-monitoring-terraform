@@ -1,5 +1,3 @@
-# app-health-monitoring-terraform
-
 # Automated Application URL Health Monitoring with Terraform, EC2 & SNS (100% IaC)
 
 ```
