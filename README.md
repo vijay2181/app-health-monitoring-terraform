@@ -1,6 +1,6 @@
 # Automated Application URL Health Monitoring with Terraform, EC2 & SNS (100% IaC)
 
-- You wanted to build an automated system that checks the health of a URL and sends alerts if the service is down
+- You wanted to build an automated system that checks the health of a URL for every 15 mins and sends alerts if the service is down
 - if app is down, it must send alert to slack,teams,etc...
 
 ```
